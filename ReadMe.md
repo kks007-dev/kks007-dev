@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I'm currently working on — B.O.L.L.Y, a Bollywood dance recognition ML model, and building agentic AI workflows as an AI Automation Engineer at Chai<br>👯 I'm looking to collaborate on — Advanced robotics projects (ROS-based) or AI/software projects that push the boundaries of what's possible<br>🤝 I'm looking for help with — Breaking into the embedded systems & hardware design space — firmware programming, hardware design, and gaining real industry experience in that world<br>🌱 I'm currently learning — End-to-end machine learning pipelines, ROS (Robot Operating System), and software & controls systems<br>💬 Ask me about — AI, Robotics, and the fundamentals of computer engineering — or pitch me your idea, I'd love to hear it!<br>⚡ Fun fact — I love taking software out of its natural habitat. Case in point: B.O.L.L.Y — a Bollywood dance ML model I'm actively developing!
+### About Me
+
+**Currently working on:** AI agent systems as an AI Engineer at Velostics (logistics automation, 300K+ shipments/year) and an AI Automation Engineer at Chai, hardware quality tooling and an AI-native RAG system at Boeing, B.O.L.L.Y (a Bollywood dance recognition ML model), and growing Winvest, an agency I'm building alongside Seggie.
+
+**Looking to collaborate on:** Advanced ROS-based robotics projects, and AI or software projects pushing what's possible with agentic systems.
+
+**Looking for help with:** Breaking into embedded systems and hardware design — firmware, hardware design, and real industry experience in that space.
+
+**Currently learning:** End-to-end machine learning pipelines, ROS (Robot Operating System), and controls systems.
+
+**Ask me about:** AI, robotics, and the fundamentals of computer engineering — or pitch me your idea, I'd love to hear it.
+
+**Fun fact:** I like taking software out of its natural habitat. B.O.L.L.Y, a Bollywood dance ML model, is proof.
 
 
 ## 🌐 Socials:
